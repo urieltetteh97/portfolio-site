@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+}
+
+.socials {
+    background-color: white;
+    width: 5rem;
+    display: flex;
+    vertical-align: middle;
+    align-items: flex-start;
+}
