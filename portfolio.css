@@ -10,10 +10,3 @@ body {
     align-items: flex-start;
 }
 
-button:hover{
-    background-color: blueviolet;
-}
-
-li a:hover{
-    color: turquoise;
-}
