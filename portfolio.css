@@ -9,3 +9,12 @@ body {
     vertical-align: middle;
     align-items: flex-start;
 }
+
+button:hover{
+    background-color: blueviolet;
+}
+
+li a:hover{
+    color: turquoise;
+}
+
