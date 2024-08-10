@@ -9,3 +9,12 @@ body {
     vertical-align: middle;
     align-items: flex-start;
 }
+
+.btn:hover{
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.btn {
+    transition: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
