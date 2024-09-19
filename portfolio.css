@@ -2,27 +2,6 @@ body {
     margin: 0;
 }
 
-.socials {
-    background-color: white;
-    width: 5rem;
-    display: flex;
-    vertical-align: middle;
-    align-items: flex-start;
-}
-
-.btn:hover{
+.btn:hover {
     transform: translateY(-3px);
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-}
-
-.btn {
-    transition: cubic-bezier(0.175, 0.885, 0.32, 1.275);
-}
-.nav-link:hover{
-    color: burlywood !important;
-}
-
-
-button:hover {
-    background-color: #45a049; /* Background color on hover */
 }
